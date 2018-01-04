@@ -1,5 +1,8 @@
 -- © All wrogns reserved.
 
+import Test.QuickCheck
+import Data.List
+
 {- 1. Three positive integer values (x, y, z) are a Phytagoran triple if x²+y²=z², that is to say, 
 if they correspond to lengths for sides of a triangle.
 
